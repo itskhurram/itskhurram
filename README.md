@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on .Net & Angular
+- 🔭 I’m currently working on .Net, Angular, Microservices
 - 🌱 I’m currently learning Next JS
 - 👯 I’m looking to collaborate on Web3
 - 🤔 I’m looking for help with blockchain
