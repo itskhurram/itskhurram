@@ -2,9 +2,6 @@
 
 ## I have move my code on https://github.com/itskhurrams Please reach me there.
 
-
-**itskhurram/itskhurram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .Net & Angular
